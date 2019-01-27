@@ -1,0 +1,22 @@
+{
+  "name": "nodeshell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackyw2018/NodeShell.git"
+  },
+  "author": "Jacky Wong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackyw2018/NodeShell/issues"
+  },
+  "homepage": "https://github.com/jackyw2018/NodeShell#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
